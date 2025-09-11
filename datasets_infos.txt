@@ -1,0 +1,9 @@
+This is where I collect the links to all the datasets I want to work with. Since I am not allowed to use real business data, I rely on sample datasets. Many of these are very close to real-world business data. I will highlight the differences and explain what decisions I would make in real-life scenarios.
+
+Believe me, they are VERY similar. The brilliant minds before us have already invented the wheel. Our task is to take it, understand how to use it, and adapt it to our needs. There is no need to reinvent the wheel.
+
+1, Banking data - Churn Prediction
+https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling?resource=download
+
+2, Telco Customer - Churn
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
