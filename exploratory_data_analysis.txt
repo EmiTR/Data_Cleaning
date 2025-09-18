@@ -1,0 +1,31 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "2bc7b3f9",
+   "metadata": {},
+   "source": [
+    "https://www.youtube.com/watch?v=eVeoJ7_ZzQk&list=PLkxHUBPpED7Ca-gZDnCuR29gKTtuk5V2w&index=44  \n",
+    "12.09.25, data pandas"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "6bd20f03",
+   "metadata": {},
+   "source": [
+    "https://www.youtube.com/watch?v=QyQYckvmxtI  \n",
+    "Portfolio\n",
+    "https://www.youtube.com/watch?v=vgZuTpOj9fE&list=PLA_6vBVye4w2vVaCxIxxlfCdd-AR0gAYI  \n",
+    "Also Portfolio"
+   ]
+  }
+ ],
+ "metadata": {
+  "language_info": {
+   "name": "python"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
